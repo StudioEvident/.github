@@ -6,6 +6,6 @@
 
 ## Credits:
 
-__Designer of the logo:__ 
-**Aliyos** 
-[![AliyosInstagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aliyos12)
+_Designer of the logo:_
+<br>**Aliyos** 
+<br>[![AliyosInstagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aliyos12)
